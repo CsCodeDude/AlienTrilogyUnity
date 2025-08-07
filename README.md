@@ -12,6 +12,6 @@ Based on the wonderful work of https://github.com/Thor110/AlienTrilogyResurrecti
 * Start the game inside Unity and see the map loaded into the scene
 
 ## Screenshots
-![01](01.PNG)
-![02](02.PNG)
-![03](03.PNG)
+![01](screenshots/01.PNG)
+![02](screenshots/02.PNG)
+![03](screenshots/03.PNG)
